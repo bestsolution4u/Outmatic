@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cabff072-9f15-4ac9-91bf-2ede1a7d34d5" name="Default Changelist" comment="" />
+    <list default="true" id="cabff072-9f15-4ac9-91bf-2ede1a7d34d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mYFfJVoTAvPwTKM3rPlosyb9lK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +64,30 @@
       <option name="presentableId" value="Default" />
       <updated>1609662719841</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial version">
+      <created>1615630718887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615630718887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1609813304230">
@@ -66,6 +114,10 @@
       <screen x="-1770" y="0" width="1770" height="1040" />
     </state>
     <state width="1727" height="682" key="GridCell.Tab.0.right/0.0.1366.728/-1770.0.1770.1040@-1770.0.1770.1040" timestamp="1610632842497" />
+    <state x="627" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615630765024">
+      <screen x="150" y="0" width="1770" height="1040" />
+    </state>
+    <state x="627" y="253" key="Vcs.Push.Dialog.v2/150.0.1770.1040/1920.0.1366.728@150.0.1770.1040" timestamp="1615630765024" />
     <state x="-1678" y="92" width="1586" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1610628353554">
       <screen x="-1770" y="0" width="1770" height="1040" />
     </state>
